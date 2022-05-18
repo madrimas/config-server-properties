@@ -3,3 +3,5 @@ spring:
   jpa:
     hibernate:
       ddl-auto: none
+  datasource:
+    pass: '{cipher}7963e75c1eb18c462a3848ab84cb34942c035f9f1fe5d3e3acbf640a93c2fdad'
